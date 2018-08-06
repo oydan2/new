@@ -1,3 +1,3 @@
 # new
-New repo
+/New repo/
 Me and myself
